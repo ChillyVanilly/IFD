@@ -1,6 +1,8 @@
 # IFD
 #00. Allgemeine Übersicht über den Prototypen : https://github.com/ChillyVanilly/IFD/blob/main/%2300_Allgemeine_%C3%9Cbersicht_des_Prototypen/Prototyp_Overview.JPG 
+
 #00. Funktionalität des Prototypen : https://github.com/ChillyVanilly/IFD/blob/main/%2300_Allgemeine_%C3%9Cbersicht_des_Prototypen/Prototyp_Functionality_Overview.JPG
+
 #01. Aufgabe : Konzept 
 - #01 Konzept_Handschrift : https://github.com/ChillyVanilly/IFD/blob/main/%2301_Konzept/%2301_Konzept_Handschriftlich.jpg
 - #01 Konzept_Word : https://github.com/ChillyVanilly/IFD/blob/main/%2301_Konzept/%2301_Konzept_Word.docx
