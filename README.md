@@ -20,4 +20,5 @@
 - #07 Dokumentation_Nutzertests_PDF : https://github.com/ChillyVanilly/IFD/blob/main/%2307_Nutzertests/Dokumentierung_zur_Durchf%C3%BChrung_der_Nutzertests.pdf
 
 #08. Aufgabe
-- #08 Prototype_Enhancement :
+- #08 Prototype_Enhancement_PDF : https://github.com/ChillyVanilly/IFD/blob/main/%2308_Prototype_Enhancement/Dokumentierung_Prototype_Enhancement.pdf
+- #08 Prototyp_aktuell : https://github.com/ChillyVanilly/IFD/blob/main/%2300_Allgemeine_%C3%9Cbersicht_des_Prototypen/Prototyp_Overview.JPG
