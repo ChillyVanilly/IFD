@@ -22,3 +22,8 @@
 #08. Aufgabe
 - #08 Prototype_Enhancement_PDF : https://github.com/ChillyVanilly/IFD/blob/main/%2308_Prototype_Enhancement/Dokumentierung_Prototype_Enhancement.pdf
 - #08 Prototyp_aktuell : https://github.com/ChillyVanilly/IFD/blob/main/%2300_Allgemeine_%C3%9Cbersicht_des_Prototypen/Prototyp_Overview.JPG
+
+#10. Aufgabe
+- #10 Physical_Computing_Konzeptentwurf_PDF : https://github.com/ChillyVanilly/IFD/blob/main/%2310_Physical_Computing/%2310_Konzeptentwurf.pdf
+- #10 Physical_Computing_Diagramm : https://github.com/ChillyVanilly/IFD/blob/main/%2310_Physical_Computing/Konzept-Diagramm.png
+- #10 Physical_Computing_Beispielgrafik_Prototype_Screenshot : https://github.com/ChillyVanilly/IFD/blob/main/%2310_Physical_Computing/Screens
