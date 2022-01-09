@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-09T15:29:04.533Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="I5ehryDuM-n_Pxdf3WxJ" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-09T15:54:17.413Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="TLnt7F86R6vxd_sY4geY" version="16.2.4" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1673" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -142,6 +142,9 @@
         </mxCell>
         <mxCell id="6VlTdnsmXAr3qn32kdae-74" value="&lt;h1&gt;&lt;span&gt;Formen der Ausgabe&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 16px ; font-weight: 400&quot;&gt;Der Sprachassistent kann in der VUI Ausgaben in Form von intern-abspielbaren Videos, externen Links, direkten Weiterleitungen oder Text (gesprochen und geschrieben) abbilden.&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="80" y="1355" width="280" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="6VlTdnsmXAr3qn32kdae-75" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Ein Beispiel eines solchen Dialogs findet sich als Prototype-Veranschaulichung ersichtlich im Ordner.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=16;align=right;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1920" width="500" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
