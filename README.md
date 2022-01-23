@@ -27,3 +27,9 @@
 - #10 Physical_Computing_Konzeptentwurf_PDF : https://github.com/ChillyVanilly/IFD/blob/main/%2310_Physical_Computing/%2310_Konzeptentwurf.pdf
 - #10 Physical_Computing_Diagramm : https://github.com/ChillyVanilly/IFD/blob/main/%2310_Physical_Computing/Konzept-Diagramm.png
 - #10 Physical_Computing_Beispielgrafik_Prototype_Screenshot : https://github.com/ChillyVanilly/IFD/blob/main/%2310_Physical_Computing/Screens
+
+#11. Aufgabe
+- #11 Natural User Interfaces_VUI_Datei : 
+- #11 Natural User Interfaces_VUI_Zeichenflächen : 
+- #11 Natural User Interfaces_VUI_Prototype_Link : 
+- #11 Natural User Interfaces_VUI_Screencast : 
